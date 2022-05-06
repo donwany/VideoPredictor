@@ -1,2 +1,2 @@
 # VideoClassification
-Machine Learning Project Submitted to: Dr. Sudip Mittal
+Machine Learning Project Submitted to: Dr. Haifeng Wang
